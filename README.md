@@ -7,7 +7,7 @@ Learnsphere is an educational app designed to provide users in Saudi Arabia with
 A Swift-based version of the app is also available for iOS devices: [LearnSphere_Swift](https://github.com/janaalbader28/LearnSphere_Swift)
 
 ## 📽 Demo
-[![Watch the demo](assets/demo-thumb.png)](https://youtube.com/shorts/VwQ2l3VSW7g?si=Vxaps0EdtZlRvfNd)
+[![Watch the demo](assets/demo-thumb.png)](https://youtu.be/AFI27tisc1M)
 
 ## Features  
 ### User Features  
